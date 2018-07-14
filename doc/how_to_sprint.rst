@@ -59,7 +59,7 @@ Contributing: what tools you need
 =================================
 
   * A python aware code editor. There are many free options: Pycharm,
-    Spyder, Canopy, emacs, vi(m), ....
+    Spyder, Canopy, emacs, vi(m), Sublime, Visual Studio Code, ....
   * An account on `github.com`.
   * The `git` tool. OSX: Install Xcode command line tools.
     Windows: https://git-scm.com/download/. Linux: use your package manager
